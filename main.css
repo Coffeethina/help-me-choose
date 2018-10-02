@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  background-color: khaki;
+}
+
+h1 {
+font-weight: bold;
+font-size: 40px;
+color: DarkOrchid;
+letter-spacing: 2px;
+margin-bottom:20px;
+}
+
+.pic_1 {
+  height: 362px;
+  width: 653px;
+}
+
+.inputSection {
+  margin: 50px 0px 40px 0px;
+  width: 400px;
+}
+
+.inputs {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-top:10px;
+
+}
+
+.addOption {
+  margin-top: 10px
+}
+
+.go {
+  margin-top:10px
+}
+
+button {
+  font-weight: bold;
+  color: DarkOrchid;
+  font-variant-caps: titling-caps;
+  background-color: white;
+}
